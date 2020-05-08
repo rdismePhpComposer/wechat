@@ -16,7 +16,7 @@
         }
     },
     "require": {
-        "rdisme/http": "~0.1.0"
+        "rdisme/http": "^1.0.0"
     },
     "license": "MIT"
 }
