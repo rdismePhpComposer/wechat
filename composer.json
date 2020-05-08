@@ -1,0 +1,22 @@
+{
+    "name": "rdisme/wechat",
+    "description": "微信相关操作类",
+    "authors": [
+        {
+            "name": "rdisme",
+            "email": "rendao.sun@foxmail.com"
+        }
+    ],
+    "keywords": [
+        "wechat"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Rwechat\\Offiaccount\\": "src/Offiaccount"
+        }
+    },
+    "require": {
+        "rdisme/http": "~0.1.0"
+    },
+    "license": "MIT"
+}
